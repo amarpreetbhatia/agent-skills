@@ -1,5 +1,7 @@
 # Agent Skills
 
+[![skills.sh](https://skills.sh/b/amarpreetbhatia/agent-skills)](https://skills.sh/amarpreetbhatia/agent-skills)
+
 A personal collection of reusable AI agent skills designed to reduce repetitive work and provide consistent workflows across projects.
 
 ## About
