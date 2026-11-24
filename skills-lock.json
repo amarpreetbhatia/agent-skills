@@ -2,8 +2,10 @@
   "version": 2,
   "skills": {
     "web-app-builder": {
-      "source": ".",
-      "sourceType": "local",
+      "source": "amarpreetbhatia/agent-skills",
+      "commit": "acd89ad20658e463b560a39c4ffa898444702839",
+      "sourceType": "github",
+      "skillPath": "skills/web-app-builder/SKILL.md",
       "computedHash": "13b503802f458d21728bb62845f0e2adeadca27e03584fefe28d5dd0a81d654a"
     }
   }
